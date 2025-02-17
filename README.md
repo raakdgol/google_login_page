@@ -25,7 +25,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/instagram-login-clone.git
+   git clone https://github.com/raakdgol/google_login_page.git
    ```
 2. Open the `index.html` file in your browser to view the page.
 
@@ -46,9 +46,3 @@ Contributions are what make the open source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - your-email@example.com
-
-Project Link: [https://github.com/your-username/instagram-login-clone](https://github.com/your-username/instagram-login-clone)
